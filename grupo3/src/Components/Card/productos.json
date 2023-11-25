@@ -1,0 +1,52 @@
+{
+    "productos": [
+        {
+            "titulo": "Titulo 1",
+            "descripcion": "Descripcion 1",
+            "precio": 100,
+            "imagen": "src/assets/products/z1.jpg"
+        },
+        {
+            "titulo": "Titulo 2",
+            "descripcion": "Descripcion 2",
+            "precio": 200,
+            "imagen": "src/assets/products/z2.jpg"
+        },
+        {
+            "titulo": "Titulo 3",
+            "descripcion": "Descripcion 3",
+            "precio": 300,
+            "imagen": "src/assets/products/z3.jpg"
+        },
+        {
+            "titulo": "Titulo 4",
+            "descripcion": "Descripcion 4",
+            "precio": 400,
+            "imagen": "src/assets/products/z4.jpg"
+        },
+        {
+            "titulo": "Titulo 5",
+            "descripcion": "Descripcion 5",
+            "precio": 500,
+            "imagen": "src/assets/products/z5.jpg"
+        },
+        {
+            "titulo": "Titulo 6",
+            "descripcion": "Descripcion 6",
+            "precio": 600,
+            "imagen": "src/assets/products/z6.jpg"
+        },
+        {
+            "titulo": "Titulo 7",
+            "descripcion": "Descripcion 7",
+            "precio": 700,
+            "imagen": "src/assets/products/z7.jpg"
+        },
+        {
+            "titulo": "Titulo 8",
+            "descripcion": "Descripcion 8",
+            "precio": 800,
+            "imagen": "src/assets/products/z8.jpg"
+        }
+    ]
+}
