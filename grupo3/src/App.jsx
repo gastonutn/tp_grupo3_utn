@@ -4,6 +4,7 @@ import Nav from "./Components/Nav/Nav";
 import Products from "./Components/Products/Products";
 import Home from "./Components/Home/Home";
 import Contact from "./Components/Contact/Contact";
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           </Route>
         </Routes>
       </BrowserRouter>
+      <Footer/>
     </>
   );
 }
